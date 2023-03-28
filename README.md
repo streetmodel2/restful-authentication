@@ -1,1 +1,1 @@
-fix predict with class filter
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
