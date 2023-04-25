@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Explorer with LanceDB, Actions and Docs updates (#7487)
