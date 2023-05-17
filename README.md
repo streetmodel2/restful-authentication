@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Reverse IoU threshold for NMS docs descriptions (#9151)
