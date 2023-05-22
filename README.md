@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
