@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update the heatmap module code + docs (#7045)
