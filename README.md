@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Docs partial mdformat improvements (#7378)
