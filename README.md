@@ -1,1 +1,1 @@
-add logs
+Fix Neural Magic links (#9144)
