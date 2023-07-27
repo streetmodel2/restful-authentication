@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
