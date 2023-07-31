@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
