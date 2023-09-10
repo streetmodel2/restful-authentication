@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Elaborate Train and Predict mode docs arguments (#8137)
