@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
