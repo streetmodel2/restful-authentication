@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
