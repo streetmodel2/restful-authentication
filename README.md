@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
