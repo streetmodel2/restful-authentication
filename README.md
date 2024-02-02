@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add settings runs_dir == datasets_dir warning (#8653)
