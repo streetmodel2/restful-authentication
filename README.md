@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Elaborate Train and Predict mode docs arguments (#8137)
