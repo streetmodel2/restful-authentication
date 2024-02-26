@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
