@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+YOLOv8 INT8 TFLite Inference Example (#7317)
