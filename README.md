@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update mkdocs.yml (#7693)
