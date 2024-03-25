@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add HUB-SDK Docs reference section (#7781)
