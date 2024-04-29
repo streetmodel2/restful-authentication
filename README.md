@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
