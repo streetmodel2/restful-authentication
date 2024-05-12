@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
