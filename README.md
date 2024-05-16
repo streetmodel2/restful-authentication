@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add CoreML Docs Integrations Page (#8063)
