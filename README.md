@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
