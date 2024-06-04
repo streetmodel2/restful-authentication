@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
