@@ -1,1 +1,1 @@
-add yolov10
+Update mkdocs.yml (#7693)
