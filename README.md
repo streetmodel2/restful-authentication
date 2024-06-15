@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Fix OpenVINO links (#7930)
