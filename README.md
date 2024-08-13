@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
