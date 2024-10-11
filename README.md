@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
